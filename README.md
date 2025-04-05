@@ -36,7 +36,6 @@ The following Data Structures and Algorithms are included in this practical coll
 - Backtracking (e.g., N-Queens)
 - Dynamic Programming (e.g., Fibonacci, Knapsack)
 - Greedy Algorithms (e.g., Activity Selection)
-- Graph Algorithms (Dijkstra's, Kruskal’s, Prim’s)
 
 ---
 
